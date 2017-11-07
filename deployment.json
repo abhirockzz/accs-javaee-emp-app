@@ -1,0 +1,14 @@
+{
+  "memory": "2G",
+  "instances": 1,
+    "services": [
+    {
+        "type": "DBAAS",
+        "name": "<DBCS instance name>",
+        "username": "<DB username>",
+        "password": "<password>",
+		"properties": {
+        "jndi-name": "<jndi name e.g. jdbc/dbcs>"
+      }
+    }]
+}
