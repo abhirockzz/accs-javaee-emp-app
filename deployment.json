@@ -8,7 +8,7 @@
         "username": "<DB username>",
         "password": "<password>",
 		"properties": {
-        "jndi-name": "<jndi name e.g. jdbc/dbcs>"
+        "jndi-name": "jdbc/dbcs"
       }
     }]
 }
