@@ -20,4 +20,4 @@ You can use any Java EE 7 container
 
 ## For details
 
-- check out the blog - [Running Java EE 7 apps on Oracle Application Container Cloud]()
+- check out the blog - [Running Java EE 7 apps on Oracle Application Container Cloud](https://medium.com/oracledevs/running-java-ee-7-apps-on-oracle-application-container-cloud-e29df7254372)
